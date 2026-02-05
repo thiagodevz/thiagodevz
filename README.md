@@ -1,9 +1,9 @@
 # About me ⚡
 
 
-**thiagodevz/thiagodevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thiagodevz/thiagodevz** is a ✨ _special_ ✨ repository because its `README.md` and its my first repository of my life in GitHub.
 
-Here are some ideas to get you started:
+Some things about me:
 
 - 🔭 I’m currently working on Java Projects.
 - 🌱 I’m currently learning Programming Logic and Java.
