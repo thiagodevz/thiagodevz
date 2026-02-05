@@ -1,7 +1,7 @@
 # About me ⚡
 
 
-**thiagodevz/thiagodevz** is a ✨ _special_ ✨ repository because its `README.md` and its my first repository of my life in GitHub.
+This is a ✨ _special_ ✨ repository because its `README.md` and its my first repository of my life in GitHub.
 
 Some things about me:
 
