@@ -1,15 +1,67 @@
-# About me ⚡
+# 💻 Thiago Policarpo
+
+**`Desenvolvedor Backend`**
+
+Me chamo Thiago Policarpo, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software na Estácio Tom Jobim. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin "[Thiago Policarpo](https://www.linkedin.com/in/thiago-policarpo-a54b0a287/)", onde ensino a criar projetos, e também através do Instagram, com o perfil chamado "[thdevz](https://www.instagram.com/dev_em_dev/)".
 
 
-This is a ✨ _special_ ✨ repository because its `README.md` and its my first repository of my life in GitHub.
 
-Some things about me:
+---
 
-- 🔭 I’m currently working on Java Projects.
-- 🌱 I’m currently learning Programming Logic and Java.
-- 👯 I’m looking to collaborate on Public projects of the comunity.
-- 🤔 I’m looking for help with my first job at development area
-- 💬 Ask me about anything.
-- 📫 How to reach me: Linkedin or e-mail.
-- ⚡ Fun fact: Actually i am working with IT infrastructure but i'm trying to migrate to development area.
+### 🤖 Linguagens e Tecnologias
+
+
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="Java" 
+        title="Java"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://devicon-website.vercel.app/api/java/original.svg" 
+        />
+        <img 
+        align="left"
+        alt="Vscode" 
+        title="Vscode"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://devicon-website.vercel.app/api/vscode/original.svg" 
+        />
+        <img 
+        align="left"
+        alt="Spring" 
+        title="Spring"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://devicon-website.vercel.app/api/spring/original.svg" 
+        />
+        <img 
+        align="left"
+        alt="IntelliJ Idea" 
+        title="IntelliJ Idea"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://devicon-website.vercel.app/api/intellij/original.svg" 
+        />
+        
+
+<br/>
+<br/>
 
