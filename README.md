@@ -11,7 +11,6 @@ Me chamo Thiago Policarpo, tenho 21 anos e sou natural do Rio de Janeiro. Atualm
 ### 🤖 Linguagens e Tecnologias
 
 
-/>
 <img 
     align="left" 
     alt="Git" 
