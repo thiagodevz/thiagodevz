@@ -27,41 +27,41 @@ Me chamo Thiago Policarpo, tenho 21 anos e sou natural do Rio de Janeiro. Atualm
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    />
-    <img 
+ />
+ <img 
         align="left"
         alt="Java" 
         title="Java"
         width="30px" 
         style="padding-right: 10px;" 
         src="https://devicon-website.vercel.app/api/java/original.svg" 
-        />
-        <img 
+  />
+  <img 
         align="left"
         alt="Vscode" 
         title="Vscode"
         width="30px" 
         style="padding-right: 10px;" 
         src="https://devicon-website.vercel.app/api/vscode/original.svg" 
-        />
-        <img 
+   />
+   <img 
         align="left"
         alt="Spring" 
         title="Spring"
         width="30px" 
         style="padding-right: 10px;" 
         src="https://devicon-website.vercel.app/api/spring/original.svg" 
-        />
-        <img 
+   />
+   <img
         align="left"
         alt="IntelliJ Idea" 
         title="IntelliJ Idea"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://devicon-website.vercel.app/api/intellij/original.svg" 
-        />
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+    />
         
-
+    
 <br/>
 <br/>
 
